@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\vetpet\\vetpet\\models\\vacina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|solutionrelative:vetpet\\models\\vacina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\vetpet\\vetpet\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|solutionrelative:vetpet\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\vetpet\\vetpet\\models\\tipoanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|solutionrelative:vetpet\\models\\tipoanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\vetpet\\vetpet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|solutionrelative:vetpet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\vetpet\\vetpet\\models\\animalfamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778B011D-6138-4E56-B212-7F94A5FBCD55}|VetPET\\VetPET.csproj|solutionrelative:vetpet\\models\\animalfamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\TipoAnimal.cs",
+              "RelativeDocumentMoniker": "VetPET\\Models\\TipoAnimal.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\TipoAnimal.cs",
+              "RelativeToolTip": "VetPET\\Models\\TipoAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T01:02:40.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\appsettings.json",
+              "RelativeDocumentMoniker": "VetPET\\appsettings.json",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\appsettings.json",
+              "RelativeToolTip": "VetPET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T01:01:53.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vacina.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\Vacina.cs",
+              "RelativeDocumentMoniker": "VetPET\\Models\\Vacina.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\Vacina.cs",
+              "RelativeToolTip": "VetPET\\Models\\Vacina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:40:36.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalFamily.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\AnimalFamily.cs",
+              "RelativeDocumentMoniker": "VetPET\\Models\\AnimalFamily.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\AnimalFamily.cs",
+              "RelativeToolTip": "VetPET\\Models\\AnimalFamily.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:40:11.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "VetPET\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\VetPET\\VetPET\\Models\\Animal.cs",
+              "RelativeToolTip": "VetPET\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:39:35.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

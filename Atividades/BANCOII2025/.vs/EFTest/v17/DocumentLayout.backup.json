@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\403392\\Desktop\\BANCOII2025\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\bancoii2025\\eftest\\models\\studentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\studentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\bancoii2025\\eftest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|solutionrelative:eftest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\bancoii2025\\eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\bancoii2025\\eftest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|solutionrelative:eftest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\bancoii2025\\eftest\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|solutionrelative:eftest\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|c:\\users\\403392\\desktop\\dataii2025\\atividades\\bancoii2025\\eftest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B657B0E2-B364-489A-A89C-E08D832D9268}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCourses.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Models\\StudentCourses.cs",
+              "RelativeDocumentMoniker": "EFTest\\Models\\StudentCourses.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Models\\StudentCourses.cs",
+              "RelativeToolTip": "EFTest\\Models\\StudentCourses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:52:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EFTest\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Models\\Course.cs",
+              "RelativeToolTip": "EFTest\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:50:47.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EFTest\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "EFTest\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:40:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\appsettings.json",
+              "RelativeDocumentMoniker": "EFTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\appsettings.json",
+              "RelativeToolTip": "EFTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T22:38:39.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EFTest\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Models\\Student.cs",
+              "RelativeToolTip": "EFTest\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:38:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Program.cs",
+              "RelativeDocumentMoniker": "EFTest\\Program.cs",
+              "ToolTip": "C:\\Users\\403392\\Desktop\\DATAII2025\\Atividades\\BANCOII2025\\EFTest\\Program.cs",
+              "RelativeToolTip": "EFTest\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:38:04.177Z",
+              "EditorCaption": ""
             }
           ]
         }
